@@ -1,6 +1,7 @@
 # HelloWorld
 
 # Day by Day repository
-![headshot](sarah_pic.jpeg)
+![day 26](026_365_.jpg)
 
 Created by masklek
+@ 2021
