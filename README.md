@@ -2,7 +2,7 @@
 
 ## Day by Day repository
 
-We are collecting Postcards for every Day of the year, like the one you see below. 
+We are collecting Postcards for every day of the year, like the one shown below. 
 
 ![day 26](026_365_.jpg)
 
