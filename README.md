@@ -1,6 +1,6 @@
 # HelloWorld
 
-## Day by Day repository
+## Day by Day project
 
 We are collecting Postcards for every day of the year, like the one shown below. 
 
